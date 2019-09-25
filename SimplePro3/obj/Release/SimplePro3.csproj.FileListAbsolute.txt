@@ -1,0 +1,6 @@
+C:\Users\VinuthaBS\source\repos\SimplePro3\SimplePro3\bin\Release\SimplePro3.exe.config
+C:\Users\VinuthaBS\source\repos\SimplePro3\SimplePro3\bin\Release\SimplePro3.exe
+C:\Users\VinuthaBS\source\repos\SimplePro3\SimplePro3\bin\Release\SimplePro3.pdb
+C:\Users\VinuthaBS\source\repos\SimplePro3\SimplePro3\obj\Release\SimplePro3.exe
+C:\Users\VinuthaBS\source\repos\SimplePro3\SimplePro3\obj\Release\SimplePro3.pdb
+C:\Users\VinuthaBS\source\repos\SimplePro3\SimplePro3\obj\Release\SimplePro3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\VinuthaBS\source\repos\SimplePro3\SimplePro3\bin\Debug\SimplePro3.exe.config
+C:\Users\VinuthaBS\source\repos\SimplePro3\SimplePro3\bin\Debug\SimplePro3.exe
+C:\Users\VinuthaBS\source\repos\SimplePro3\SimplePro3\bin\Debug\SimplePro3.pdb
+C:\Users\VinuthaBS\source\repos\SimplePro3\SimplePro3\obj\Debug\SimplePro3.csproj.CoreCompileInputs.cache
+C:\Users\VinuthaBS\source\repos\SimplePro3\SimplePro3\obj\Debug\SimplePro3.exe
+C:\Users\VinuthaBS\source\repos\SimplePro3\SimplePro3\obj\Debug\SimplePro3.pdb
