@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="21c8d703-7fe2-47d8-af5c-fb2a35dc2092" name="VinuthaBS@VINUTHABS-INL1 2019-09-25 20:59:32" runUser="AzureAD\VinuthaBS" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2019-09-25T20:59:32.5759715+05:30" queuing="2019-09-25T20:59:32.5759715+05:30" start="2019-09-25T20:59:32.4799826+05:30" finish="2019-09-25T20:59:32.5776115+05:30" />
+  <TestSettings name="default" id="5ed1087c-e508-486a-a9b3-6f583b4b9aa4">
+    <Deployment runDeploymentRoot="VinuthaBS_VINUTHABS-INL1_2019-09-25_20_59_32" />
+  </TestSettings>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="0" executed="0" passed="0" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>
